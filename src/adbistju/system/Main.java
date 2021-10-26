@@ -17,7 +17,8 @@ public class Main {
             a.run();
             a.run();
             a.toSleep();
-            a.voice();
+            a.toSleep();
+            System.out.println(a.voice());
             System.out.println("--------");
         }
     }

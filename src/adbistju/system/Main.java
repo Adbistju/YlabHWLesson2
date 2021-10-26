@@ -17,6 +17,7 @@ public class Main {
             a.run();
             a.run();
             a.toSleep();
+            a.voice();
             System.out.println("--------");
         }
     }
